@@ -3,7 +3,7 @@
 ### I'm Aryan Singh
 
 - 💼  Google SWE Intern, summer 2020
-- 🎓  Computer Science, UMass Amherst (class of 2021)
+- 🎓  Computer Science, UMass Amherst 21
 - ⚡   Creator @ https://30dayscoding.com
 - 🔆  Mobile, Web, Machine learning
 
