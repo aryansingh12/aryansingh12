@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### I'm Aryan Singh
+### Hola, I'm Aryan Singh 👋
 
 - 💼  Google SWE Intern, summer 2020
 - 🎓  Computer Science, UMass Amherst 21
