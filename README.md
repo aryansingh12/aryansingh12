@@ -2,7 +2,6 @@
 
 - 🎓  Computer Science, UMass Amherst 20
 - 💼  Software Engineer @ Google
-- 👮  Portfolio: https://aryansingh12.github.io/aryan.html
 - 👓  Prepare for Coding Interviews: https://30dayscoding.com
 
   
