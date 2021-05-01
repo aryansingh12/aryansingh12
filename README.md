@@ -1,8 +1,7 @@
-### Hi, I'm Aryan Singh 👋
+```
+> Software Engineer @ Google
+> Full stack Web, Mobile
+```
 
-- 🎓  Computer Science, UMass Amherst 20
-- 💼  Software Engineer @ Google
-- 👓  Prepare for Coding Interviews: https://30dayscoding.com
-
-  
-Want to discuss any new ideas or opportunities? Email me: aryansingh@umass.edu
+Want to discuss ideas/opportunities/tech/universities/projects? 
+Ping me on [linkedin](https://www.linkedin.com/in/aryansingh2/) or [email me](aspiringaryan@gmail.com)
