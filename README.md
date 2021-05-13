@@ -2,6 +2,8 @@
 > Software Engineer @ Google
 > Full stack Web, Mobile
 > 30dayscoding.com
+> eveningcoffee.info
+> universitywaala.com
 ```
 
 Want to discuss ideas/opportunities/tech/universities/projects? 
