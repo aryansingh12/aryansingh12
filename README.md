@@ -3,6 +3,7 @@
 > Full stack Web, Mobile
 
 > 30dayscoding.com
+> https://30dayscoding.substack.com/
 > eveningcoffee.info
 > universitywaala.com
 ```
