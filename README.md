@@ -4,6 +4,7 @@
 
 > 30dayscoding.com
 > 30dayscoding.substack.com
+> https://aryansingh12.github.io/
 > eveningcoffee.info
 > universitywaala.com
 ```
